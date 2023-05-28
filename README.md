@@ -63,7 +63,7 @@ You need these tools before running this test cases in this project:
 
 6.1 Test result execution can be refer in the `Result` tab of the test suites collection. [Refer here for better visualization](https://ibb.co/VggXCY6)
 
-6.2 For detail test result, please refer the Test Result doc included in the zip file
+6.2 For detail test result, please refer the [Test Result doc here](https://docs.google.com/spreadsheets/d/1jsVOzFTvmVuFWsGh9EAfql-EJkUGVcnNhKvLoU5VVSs/edit?usp=sharing)
 
 ## 7. FAQ
 7.1 RECEIVE an error [chromedriver outdated](https://ibb.co/6RQhWDx) while running the code. We can update chromedriver in the katalon studio.
