@@ -1,0 +1,49 @@
+{
+  "keywordFileContentHash": "078C06CDDA4BBF5B8797AB021454243A",
+  "keywordClasses": [
+    {
+      "name": "task.Task2",
+      "keywordMethods": [
+        {
+          "name": "navigatetopage",
+          "parameters": [
+            {
+              "name": "page",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        },
+        {
+          "name": "change_language",
+          "parameters": [
+            {
+              "name": "language",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

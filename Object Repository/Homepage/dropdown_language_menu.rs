@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>dropdown_language_menu</name>
+   <tag></tag>
+   <elementGuidId>c587437b-4e08-40f7-b23b-49f163bf5479</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@class='lang_switcher']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@class='lang_switcher']</value>
+      <webElementGuid>2afa05e3-23d8-4625-af66-faebf939fb12</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

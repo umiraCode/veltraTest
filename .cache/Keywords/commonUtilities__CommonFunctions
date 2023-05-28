@@ -1,0 +1,30 @@
+{
+  "keywordFileContentHash": "B011D70AABDC7B53904CFD047DD7046F",
+  "keywordClasses": [
+    {
+      "name": "commonUtilities.CommonFunctions",
+      "keywordMethods": [
+        {
+          "name": "startBrowser",
+          "parameters": [
+            {
+              "name": "webpage_url",
+              "initialExpression": "",
+              "type": {
+                "fullClassName": "java.lang.String",
+                "unresolvedClassName": "String",
+                "isArray": false,
+                "isGnericsPlaceHolder": false,
+                "hasImmutableClassName": false,
+                "genericsTypes": [],
+                "errorOnParsing": false
+              }
+            }
+          ],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}

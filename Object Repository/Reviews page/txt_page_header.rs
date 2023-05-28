@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>txt_page_header</name>
+   <tag></tag>
+   <elementGuidId>c68c26eb-b60f-4123-9f73-cb694bf82b3f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[@id='five_star_review_wrapper']/div/div/div[2]/div[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='five_star_review_wrapper']/div/div/div[2]/div[2]/a</value>
+      <webElementGuid>3eac96a3-7ad2-47dd-bf8c-2b244596320e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
