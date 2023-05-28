@@ -43,8 +43,8 @@ public class Task2 {
 
 			case "About Us":
 
-				expectedText = 'Whether you know exactly where you want to go, or you are looking for some ideas,'+
-				'VELTRA has over 4,500 tours and activities around the world waiting for you to discover.'+
+				expectedText = 'Whether you know exactly where you want to go, or you are looking for some ideas, '+
+				'VELTRA has over 4,500 tours and activities around the world waiting for you to discover. '+
 				'With new destinations continually added, VELTRA will change your life one visit at a time,'+
 				' in fact, by simply re-arranging the letters, "VELTRA" changes "TRAVEL".'
 
